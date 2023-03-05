@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Dependencies
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Have the [backend](https://github.com/maxdietrich/vending-machine-backend) running on localhost:3001 (or configure a differing url in `src/config.js`)
 
 ## Available Scripts
 
